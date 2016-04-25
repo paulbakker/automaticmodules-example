@@ -3,5 +3,5 @@ module demonstrator {
   //requires jackson.core;
   //requires jackson.annotations;
 
-  exports com.javamodularity.demonstrator to jackson.databind;
+  //exports com.javamodularity.demonstrator to jackson.databind;
 }
